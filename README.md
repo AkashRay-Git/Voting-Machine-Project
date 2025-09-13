@@ -1,3 +1,3 @@
 This code is inspired by the Electronic voting Machine.
-br
+<br>
 Which ask user to enter votes to their candidate and after the voting it show the result who wins and lose.
